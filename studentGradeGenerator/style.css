@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(189, 189, 189) ;
+}
+.container{
+    background-color: rgb(168, 142, 78);
+    width: 40%;
+    padding: 10%;
+    margin-top: 50px;
+    border-radius: 30px 30px 30px 30px;
+}
+.container h1{
+    font-size: 20px;
+    padding-left: 150px;
+}
+.container #form {
+    padding-left: 140px;
+
+}
+.container #button {
+    background-color: rgb(111, 156, 157) ;
+}
+ul {
+    padding-left: 140px;
+    margin-left: 100px;
+    width: 50%;
+    background-color: rgb(187, 135, 135);
+}
